@@ -1,2 +1,1 @@
-# AgenticAI
-first commit 
+some text
