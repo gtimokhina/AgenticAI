@@ -1,1 +1,1 @@
-some text
+Agentic AI projects
